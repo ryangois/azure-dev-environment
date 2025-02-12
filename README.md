@@ -1,4 +1,4 @@
-# Dev-enviroment-docker
+# Dev-environment-docker
 
 ## To start the backend and install the hashicorp/azurerm version
 
